@@ -59,3 +59,7 @@ Finally, back to your [Twilio Phone Numbers](https://www.twilio.com/console/phon
 2. Next, hand out the Twilio number to those who you wish to have notified about the baby and have them text it to enroll.
 3. Finally, once it comes time, send your `BORN_PHRASE` in a text to the Twilio number and the application will handle notifying everyone who registered.
 4. Make sure once you have the baby you stop running your instance of the application. Until you do so anyone who texts it will continue to receive the message you sent with the `BORN_PHRASE`.
+
+## Support Me
+
+You can support me by [buying me a beer 🍺](https://www.buymeacoffee.com/michaelwnelson)!
